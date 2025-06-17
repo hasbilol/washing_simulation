@@ -1,8 +1,9 @@
-##🧺 Fuzzy Logic Washing Machine Controller
+🧺Fuzzy Logic Washing Machine Controller
 
 This project implements a fuzzy logic system to simulate decision-making in a smart washing machine. Using fuzzy logic, the system determines the optimal wash time, water temperature, and spin speed based on input parameters like load size, fabric type, and dirt level.
 
-###🔍 Overview
+🔍 Overview
+
 Traditional washing machines operate using predefined cycles. In contrast, this fuzzy logic-based controller adjusts its output dynamically based on the characteristics of the laundry load, offering a more intelligent and efficient approach.
 
 📊 Input Variables
