@@ -19,10 +19,10 @@ Dirt Level (0–100%)
 🧠 Fuzzy Logic Rules
 A set of fuzzy rules is defined to control the output based on combinations of inputs. For example:
 
-'''
+```
 IF Load Size is Very Light AND Fabric Type is Very Delicate AND Dirt Level is Light
 THEN Wash Time is Very Short, Water Temperature is Cold, Spin Speed is Very Gentle
-'''
+```
 
 ⚙️ How It Works
 1. Define fuzzy membership functions for all input and output variables.
@@ -38,8 +38,9 @@ Requirements
 -scikit-fuzzy (pip install scikit-fuzzy)
 
 Run the Simulation:
+```
 python fuzzy_washing_machine.py
-
+```
 
 *Sample Output*
 
