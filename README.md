@@ -50,6 +50,7 @@ Spin Speed: 520.39 rpm
 The script includes graphical visualization of the membership functions using matplotlib.
 
 📁 File Structure
+
 ├── fuzzy_washing_machine.py   # Main simulation script
 
 ├── README.md                  # Project description
