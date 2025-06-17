@@ -51,6 +51,7 @@ The script includes graphical visualization of the membership functions using ma
 
 📁 File Structure
 ├── fuzzy_washing_machine.py   # Main simulation script
+
 ├── README.md                  # Project description
 
 🧠 Concepts Used
