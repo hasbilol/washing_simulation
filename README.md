@@ -7,6 +7,7 @@ This project implements a fuzzy logic system to simulate decision-making in a sm
 Traditional washing machines operate using predefined cycles. In contrast, this fuzzy logic-based controller adjusts its output dynamically based on the characteristics of the laundry load, offering a more intelligent and efficient approach.
 
 📊 Input Variables
+
 Load Size (0–8 kg)
 
 Fabric Type (1–5 scale, from Very Delicate to Very Tough)
