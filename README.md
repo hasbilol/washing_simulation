@@ -33,8 +33,11 @@ THEN Wash Time is Very Short, Water Temperature is Cold, Spin Speed is Very Gent
 
 🚀 Getting Started
 Requirements
+
 -Python 3.x
+
 -NumPy
+
 -scikit-fuzzy (pip install scikit-fuzzy)
 
 Run the Simulation:
