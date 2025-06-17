@@ -56,6 +56,7 @@ Water Temperature: 38.72 °C
 Spin Speed: 520.39 rpm
 
 📈 Visualization
+
 The script includes graphical visualization of the membership functions using matplotlib.
 
 📁 File Structure
