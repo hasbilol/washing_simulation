@@ -40,6 +40,7 @@ python fuzzy_washing_machine.py
 
 
 *Sample Output*
+
 Available Outputs: {'Wash Time': 23.45, 'Water Temperature': 38.72, 'Spin Speed': 520.39}
 Wash Time: 23.45 minutes
 Water Temperature: 38.72 °C
