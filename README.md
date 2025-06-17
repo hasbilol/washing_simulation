@@ -56,14 +56,22 @@ The script includes graphical visualization of the membership functions using ma
 ├── README.md                  # Project description
 
 🧠 Concepts Used
+
 -Fuzzy Membership Functions: trapezoidal & triangular
+
 -Fuzzy Rules & Inference
+
 -Control system simulation using skfuzzy
 
 📌 Future Enhancements
+
 -Add more rules to cover a broader range of input combinations
+
 -Build a GUI to let users select inputs interactively
+
 -Integrate real sensor input for real-time decision making
 
+
 🤝 Contributing
+
 Feel free to fork the repo and open a pull request to improve rules, add more fuzzy sets, or optimize the inference system.
